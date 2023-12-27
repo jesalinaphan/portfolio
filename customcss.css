@@ -1,0 +1,36 @@
+.image.profile {
+    display: flex;
+    margin: 2rem 0;
+    height: 50vh;
+    justify-content: center;
+}
+
+    .image.profile:first-child {
+        margin-top: 0;
+    }
+
+    /* .image.profile img {
+        width: 100%;
+    } */
+
+ /*.image.profile2 {
+    display: flex;
+    margin: 2rem 0;
+    width: 50%;
+    justify-content: center;
+}
+
+    .image.profile.wide:first-child {
+        margin-top: 0;
+    } */
+
+    .image.profile.2 {
+        display: flex;
+        margin: 2rem 0;
+        height: 70vh;
+        justify-content: center;
+    }
+    
+        .image.profile.2:first-child {
+            margin-top: 0;
+        }
